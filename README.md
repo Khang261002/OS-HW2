@@ -26,23 +26,23 @@ The program consists of two classes:
 ```./HW2```
 
 3. **Follow the Prompts:**
-- Enter the number of processes.
-- For each process, enter the number of tickets and individual ticket numbers.
+   - Enter the number of processes.
+   - For each process, enter the number of tickets and individual ticket numbers.
 
 4. **Output:**
-- The program will print the details of all processes and announce the winner based on the randomly selected ticket.
+   - The program will print the details of all processes and announce the winner based on the randomly selected ticket.
 
 ## Grading Criteria
 
 1. **Functionality:**
-- Proper implementation of the Process class with a unique identifier and lottery ticket management.
-- Correct allocation and management of lottery tickets for each process.
-- Implementation of the Scheduler class with necessary methods.
-- Proper handling of the lottery scheduling algorithm using a random number generator.
+   - Proper implementation of the Process class with a unique identifier and lottery ticket management.
+   - Correct allocation and management of lottery tickets for each process.
+   - Implementation of the Scheduler class with necessary methods.
+   - Proper handling of the lottery scheduling algorithm using a random number generator.
 
 2. **Script Submission:**
-- Ensure proper submission of the script via the designated platform.
-- Provide adequate documentation or comments explaining the implementation choices.
+   - Ensure proper submission of the script via the designated platform.
+   - Provide adequate documentation or comments explaining the implementation choices.
 
 ## Author
 
